@@ -27,11 +27,10 @@
 </p>
 
 <p align="center">
-    ![Demo Video](./assets/demo_voicebot.mp4)
-    <br>
-    <em>Demo: Voice Assistant with OpenAI</em>
+    <video width="600" controls>
+        <source src="https://urfanamillatina.github.io/repo/assets/demo_voicebot.mov" type="video/mp4">
+    </video>
 </p>
-
 
 ## 🎤 Voice Assistant with OpenAI
 
