@@ -21,23 +21,6 @@
   </a>
 </p>
 
-<p align="center">
-  <h3>🎬 Voice Assistant Demo</h3>
-  
-  <a href="https://youtu.be/1EY0Sf1pzc4" target="_blank">
-    <img src="https://img.youtube.com/vi/1EY0Sf1pzc4/maxresdefault.jpg" width="700" 
-         alt="Voice Assistant with OpenAI Demo" 
-         style="border-radius: 12px; border: 3px solid #e1e4e8; box-shadow: 0 4px 20px rgba(0,0,0,0.1);">
-  </a>
-  
-  <br><br>
-  
-  <a href="https://youtu.be/1EY0Sf1pzc4" target="_blank">
-    <img src="https://img.shields.io/badge/▶️_Watch_Full_Demo_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" 
-         alt="Watch Demo on YouTube" style="margin-top: 10px;">
-  </a>
-</p>
-
 
 ## 🎤 Voice Assistant with OpenAI
 
