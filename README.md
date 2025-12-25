@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/urfanamillatina/voice_assistant_openai/releases/download/v1.0/demo_voicebot.mp4">
+  <a href="https://github.com/urfanamillatina/voice_assistant_openai/tree/v1.0.0/releases/download/v1.0/demo_voicebot.mp4">
     <img src="assets/thumbnail.jpg" width="600" alt="Demo Thumbnail">
     <br>
     <strong>▶️ Download & Watch Demo Video</strong>
