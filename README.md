@@ -12,27 +12,32 @@
 </p>
 
 
-<p align="center">
-    <video width="600" controls>
-        <source src="./assets/demo_voicebot.mov" type="video/mp4">
-        <em>Demo: Voice Assistant with OpenAI </em>
-    </video>
-</p>
-
 
 <p align="center">
-    <video src="./assets/demo_voicebot.mp4" width="600" controls></video>
+  <a href="https://youtu.be/1EY0Sf1pzc4" target="_blank">
+    <img src="https://img.youtube.com/vi/1EY0Sf1pzc4/maxresdefault.jpg" width="600" alt="Voice Assistant Demo">
     <br>
-    <em>Demo: Voice Assistant with OpenAI</em>
-</p>
-
-<p align="center">
-  <a href="https://github.com/urfanamillatina/voice_assistant_openai/releases/tag/v1.0.0/demo_voicebot.mp4">
-    <img src="assets/thumbnail.jpg" width="600" alt="Demo Thumbnail">
-    <br>
-    <strong>▶️ Download & Watch Demo Video</strong>
+    <strong>▶️ Watch Demo on YouTube</strong>
   </a>
 </p>
+
+<p align="center">
+  <h3>🎬 Voice Assistant Demo</h3>
+  
+  <a href="https://youtu.be/1EY0Sf1pzc4" target="_blank">
+    <img src="https://img.youtube.com/vi/1EY0Sf1pzc4/maxresdefault.jpg" width="700" 
+         alt="Voice Assistant with OpenAI Demo" 
+         style="border-radius: 12px; border: 3px solid #e1e4e8; box-shadow: 0 4px 20px rgba(0,0,0,0.1);">
+  </a>
+  
+  <br><br>
+  
+  <a href="https://youtu.be/1EY0Sf1pzc4" target="_blank">
+    <img src="https://img.shields.io/badge/▶️_Watch_Full_Demo_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" 
+         alt="Watch Demo on YouTube" style="margin-top: 10px;">
+  </a>
+</p>
+
 
 ## 🎤 Voice Assistant with OpenAI
 
