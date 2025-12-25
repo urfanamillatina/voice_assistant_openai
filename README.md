@@ -20,8 +20,11 @@
 </p>
 
 
-![Demo: Voice Assistant with OpenAI](./assets/demo_voicebot.mov)
-
+<p align="center">
+    <video src="./assets/demo_voicebot.mp4" width="600" controls></video>
+    <br>
+    <em>Demo: Voice Assistant with OpenAI</em>
+</p>
 
 
 ## 🎤 Voice Assistant with OpenAI
