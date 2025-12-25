@@ -27,6 +27,12 @@
 </p>
 
 
+## 🎬 Demo
+
+### Option 1: Direct Video (Works on GitHub)
+![Voice Bot Demo](./assets/demo_voicebot.mov)
+
+
 ## 🎤 Voice Assistant with OpenAI
 
 A voice-controlled AI assistant that uses speech recognition to listen to user's voice, processes it through OpenAI's language models, and responds with synthesized speech. The assistant's text response is displayed and also spoken via the thread-safe TTS queue.
