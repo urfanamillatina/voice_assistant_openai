@@ -27,9 +27,11 @@
 </p>
 
 <p align="center">
-    <video width="600" controls>
-        <source src="https://urfanamillatina.github.io/repo/assets/demo_voicebot.mp4" type="video/mp4">
-    </video>
+  <a href="https://github.com/urfanamillatina/voice-assistant/releases/download/v1.0/demo_voicebot.mp4">
+    <img src="assets/thumbnail.jpg" width="600" alt="Demo Thumbnail">
+    <br>
+    <strong>▶️ Download & Watch Demo Video</strong>
+  </a>
 </p>
 
 ## 🎤 Voice Assistant with OpenAI
