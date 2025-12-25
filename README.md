@@ -26,6 +26,11 @@
     <em>Demo: Voice Assistant with OpenAI</em>
 </p>
 
+<p align="center">
+    ![Demo Video](./assets/demo_voicebot.mp4)
+    <br>
+    <em>Demo: Voice Assistant with OpenAI</em>
+</p>
 
 
 ## 🎤 Voice Assistant with OpenAI
