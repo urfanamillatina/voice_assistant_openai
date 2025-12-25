@@ -28,7 +28,7 @@
 
 <p align="center">
     <video width="600" controls>
-        <source src="https://urfanamillatina.github.io/repo/assets/demo_voicebot.mov" type="video/mp4">
+        <source src="https://urfanamillatina.github.io/repo/assets/demo_voicebot.mp4" type="video/mp4">
     </video>
 </p>
 
