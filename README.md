@@ -11,15 +11,15 @@
     <img src="https://img.shields.io/badge/PyAudio-Audio%20I%2FO-0077B5?logo=audio-technica&logoColor=white" alt="PyAudio">
 </p>
 
-    <video width="600" controls>
+<video width="600" controls>
     <source src="./assets/demo_voicebot.mov" type="video/mp4">
     <em>Demo: Voice Assistant with OpenAI </em>
-    </video>
+</video>
 
 <p align="center">
     <video width="600" controls>
-    <source src="./assets/demo_voicebot.mov" type="video/mp4">
-    <em>Demo: Voice Assistant with OpenAI </em>
+        <source src="./assets/demo_voicebot.mov" type="video/mp4">
+        <em>Demo: Voice Assistant with OpenAI </em>
     </video>
 </p>
 
